@@ -5,7 +5,7 @@ This repository was created with the intent of presenting users with the lastest
 
 This extension will work on HTML5.
 
-Please following setup present on documentation.
+Please follow setup present on documentation.
 
 ## Documentation
 
