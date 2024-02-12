@@ -1,0 +1,18 @@
+{
+    "gitHubUrl": "https://github.com/YoYoGames/GMEXT-H5GamesAds",
+    "projectFile": "source/H5GamesAds_gml/H5 Games Ads.yyp",
+    "projectVersion": "LTS22",
+    "releaseTemplate": "templates/release_body.md",
+    "extensionMetaData": [
+        {
+            "extensionFile": "source/H5GamesAds_gml/extensions/h5gamesads/H5GamesAds.yy",
+            "packageId": "com.yoyogames.h5gamesadsext",
+            "packageName": "H5GamesAds Ext",
+            "packageVersion": "0.0.1",
+            "packageFormat": "LTS22",
+            "includeFolders": null,
+            "includeResources": null,
+            "excludeResources": null
+        }
+    ]
+}
